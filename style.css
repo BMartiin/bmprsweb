@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+#main-title {
+    font-size: 5vw;
+    text-align: center;
+}
+p{
+    font-size: 1.5vw;
+    padding: 0.2vw;
+    margin: 0.3vw;
+}
+#cubes{
+    padding: 0px;
+    margin: 0px;
+
+}
